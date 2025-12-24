@@ -1,0 +1,133 @@
+.container1{
+   /*border: 2px solid white;*/
+    width:1300px;
+    height: 800px;
+    position: relative;
+    top: 70%;
+    display: flex;
+   
+  
+}
+.child-1 h1{
+    background-color: black;
+    position:absolute;
+    top: 37%;
+    left: 41%;
+    padding: 10px;
+    color: white;
+}
+.child-1 p{
+    position: absolute;
+    padding: 10px;
+    left: 46%;
+    top: 36%;
+    color: white;
+    font-size: 32px;
+    letter-spacing: 3px;
+}
+img{
+    width: 100% ;
+}
+.container2{
+    /* border: 2px solid red; */
+    height: 600px;
+
+}
+.child-2{
+    /* border: 2px solid greenyellow; */
+    height: 250px;
+    /* position: relative; */
+}
+
+.child-3{
+    /* border: 2px solid blueviolet; */
+    height: 250px;
+}
+.sub-child-1{
+    display: inline-block;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 300px;
+    position: relative;
+   
+    
+}
+.sub-child-2{
+    display: inline-block;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 300px;
+    position: relative;
+   
+    
+}
+.sub-child-3{
+    display: inline-block;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 300px;
+    position: relative;
+    
+    
+}
+.sub-child-4{
+    display: inline-block;
+    /* border: 2px solid black; */
+    width: 350px;
+    height: 300px;
+    position: relative;
+  
+}
+img{
+    width: 100%;
+
+}
+h3{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+}
+.sub-child-5{
+    /* border: 2px solid goldenrod; */
+    display: inline-block;
+    width: 350px;
+    height: 300px;
+    position: relative;
+}
+.sub-child-6{
+    /* border: 2px solid goldenrod; */
+    display: inline-block;
+    width: 350px;
+    height: 300px;
+    position:relative;
+}
+.sub-child-7{
+    /* border: 2px solid goldenrod; */
+    display: inline-block;
+    width: 350px;
+    height: 300;
+    position: relative;
+}
+.sub-child-8{
+    /* border: 2px solid goldenrod; */
+    display: inline-block;
+    width: 350px;
+    height: 300px;
+    position: relative;
+}
+
+
+   
+    
+ 
+    
+
+
+
+
+    
+    
+   
+
