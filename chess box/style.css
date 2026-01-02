@@ -1,0 +1,443 @@
+
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    /* height: 100vh;  */
+
+
+}
+.container{
+    /* border: 2px solid yellow; */
+    width: 600px;
+    height: 600px;
+    
+
+}
+
+
+
+
+.container1{
+    border: 2px solid red;
+    width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child1{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child2{
+    border: 2px solid greenyellow;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child3{
+    border: 2px solid greenyellow;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child4{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child5{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child6{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child7{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child8{
+    border: 2px solid greenyellow;
+    width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* container2 */
+
+
+.container2{
+    border: 2px solid pink;
+     width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child9{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.child10{
+    border: 2px solid blue;
+   width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child11{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child12{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child13{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child14{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child15{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child16{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container3{
+    border: 2px solid pink;
+    width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child17{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child18{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child19{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child20{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child21{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child22{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child23{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child24{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.container4{
+    border: 2px solid pink;
+     width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child25{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child26{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child27{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child28{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child29{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child30{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child31{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child32{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.container5{
+    border: 2px solid pink;
+     width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child33{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child34{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child35{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child36{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child37{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child38{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child39{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child40{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.container6{
+    border: 2px solid pink;
+    width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child41{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child42{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child43{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child44{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child45{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child46{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child47{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child48{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.container7{
+    border: 2px solid pink;
+     width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child49{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child50{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child51{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child52{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child53{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child54{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child55{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child56{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.container8{
+    border: 2px solid pink;
+     width: 600px;
+    height: 75px;
+    display: flex;
+}
+.child57{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child58{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child59{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child60{
+    border: 2px solid blue;
+    width: 75px;
+    height: 75px;
+}
+.child61{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child62{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child63{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
+.child64{
+    border: 2px solid blue;
+     width: 75px;
+    height: 75px;
+}
